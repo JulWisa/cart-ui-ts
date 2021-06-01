@@ -1,0 +1,14 @@
+{
+  "state": {
+    "products": {
+      "id": "int",
+      "name": "string",
+      "price": "int",
+      "count": "int"
+    },
+    "cart": {
+      "id": "int",
+      "count": "int"
+    }
+  }
+}
